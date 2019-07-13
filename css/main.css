@@ -37,7 +37,7 @@ h1 {
 
 header {
     height: 800px;
-    background: url('../img/heroimg-angelo-pantazis.jpg');
+    background: url('../img/hero-tri-v1.jpg');
     background-size: cover;
 }
 
@@ -161,7 +161,7 @@ img {
 #contact {
     height: 465px;
     clear: both;
-    background-color: #bfbfbf;;
+    background-color: #f2f2f2;;
     text-align: center;
     padding-top: 10px;
 }
