@@ -168,8 +168,17 @@ img {
     padding-top: 10px;
 }
 
+footer {
+    background: url('../img');
+    background-size: cover;
+}
+
 footer h1 {
     padding-bottom: 10px;
+}
+
+footer img {
+    border: none;
 }
 
 .list {
