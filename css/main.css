@@ -4,6 +4,7 @@ body {
     font-family: 'Roboto', sans-serif;
     color: #3b3c40;
     background-color: #ffffff;
+    font-size: 16px;
 }
 
 h1 {
@@ -137,8 +138,9 @@ img {
 }
 
 .tidbit p {
-    font-size: 24px;
+    font-size: 20px;
     color: #3b3c40;
+    line-height: 24px;
 }
 
 /****** About ******/
@@ -155,7 +157,7 @@ img {
 }
 
 .intro {
-    font-size: 20px;
+    font-size: 18px;
 }
 
 /****** Contact Footer ******/
