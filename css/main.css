@@ -183,6 +183,13 @@ footer img {
 
 .list {
     padding: 0;
+
+}
+
+i {
+    font-size: 35px;
+    color: #3b3c40;
+    margin: 0 10px;
 }
 
 #top {
