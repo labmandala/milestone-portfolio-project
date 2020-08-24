@@ -63,6 +63,11 @@ nav ul li a {
     padding-left: 80px;
 }
 
+a:hover {
+    color:#ccc; 
+    text-decoration: none;
+}
+
 nav ul li,
 footer ul li {
     display: inline-block;
