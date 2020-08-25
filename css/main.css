@@ -199,6 +199,11 @@ i {
     margin: 0 10px;
 }
 
+i:hover {
+    color:#ccc; 
+    text-decoration: none;
+}
+
 #top {
     height: 800px;
 }
