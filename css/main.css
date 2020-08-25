@@ -2,13 +2,14 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: #3b3c40;
+    color: #253841; /* #3b3c40; */
     background-color: #ffffff;
     font-size: 16px;
 }
 
 h1 {
     font-family: 'Roboto Slab', serif;
+/*    color: #586e73; */
 }
 
 /*
@@ -59,12 +60,12 @@ nav ul li a {
     text-transform: uppercase;
     text-decoration: none;
     font-size: 18px;
-    color: #828282;
+    color: #586e73; /* #828282; */
     padding-left: 80px;
 }
 
 a:hover {
-    color:#ccc; 
+    color: #253841; /* #ccc; */
     text-decoration: none;
 }
 
@@ -135,6 +136,7 @@ main h4 {
 h5 {
     font-size: 24px;
     font-weight: normal;
+    color: #586e73;
 }
 
 img {
@@ -195,12 +197,12 @@ footer img {
 
 i {
     font-size: 35px;
-    color: #3b3c40;
+    color: #586e73; /* #3b3c40; */
     margin: 0 10px;
 }
 
 i:hover {
-    color:#ccc; 
+    color: #253841; 
     text-decoration: none;
 }
 
